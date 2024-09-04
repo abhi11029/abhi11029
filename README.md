@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </div>
@@ -15,7 +16,7 @@ I'm a passionate **Flutter Developer** with a knack for crafting seamless mobile
 
 - 📱 Cross-platform app development with **Flutter** and **Dart**
 - 🖥️ Backend architecture using **Node.js** and **Express.js**
-- 🤖 **Android Native** development for complex integrations
+- 🤖 **Android Native** and **iOS Native** development for complex integrations
 - 🔥 Real-time app solutions with **Firebase**
 
 I thrive on turning innovative ideas into robust, user-friendly applications that make a difference.
@@ -24,7 +25,7 @@ I thrive on turning innovative ideas into robust, user-friendly applications tha
 
 ### Mobile Development
 - **Flutter & Dart**: Building beautiful, natively compiled apps for mobile, web, and desktop from a single codebase
-- **Android Native**: Leveraging Kotlin and Java for platform-specific optimizations
+- **Android Native & iOS Native**: Leveraging Kotlin, Java, Swift, and Objective-C for platform-specific optimizations
 
 ### Backend Development
 - **Node.js**: Crafting scalable server-side applications
@@ -50,23 +51,6 @@ I thrive on turning innovative ideas into robust, user-friendly applications tha
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi11029&theme=dark" alt="GitHub Streak" />
 </div>
 
-## 📂 Featured Projects
-
-### 1. [EcoTrack](https://github.com/abhi11029/EcoTrack)
-An eco-friendly habit tracker that helps users reduce their carbon footprint.
-- **Tech Stack**: Flutter, Firebase, Node.js
-- **Features**: Carbon footprint calculation, Daily eco-challenges, Community leaderboard
-
-### 2. [HealthHub](https://github.com/abhi11029/HealthHub)
-A comprehensive health monitoring app with integration to wearable devices.
-- **Tech Stack**: Flutter, SQLite, Android Native (for wear OS integration)
-- **Features**: Activity tracking, Sleep analysis, Nutrition logging
-
-### 3. [CodeCollab](https://github.com/abhi11029/CodeCollab)
-Real-time collaborative coding platform for remote pair programming.
-- **Tech Stack**: Flutter (Web), Node.js, Socket.io, MongoDB
-- **Features**: Live code sharing, Video conferencing, Version control integration
-
 ## 🌱 Current Learning Goals
 
 - Advanced Flutter animations and custom paintings
@@ -80,7 +64,7 @@ I'm always excited to collaborate on innovative projects or discuss the latest i
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekchoudhary9017@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekchoudhary9017@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-choudhary-4491a124b)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhi06222041?t=lf_D6ObGRmsOzTmICw1dAw&s=09)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi11029)
